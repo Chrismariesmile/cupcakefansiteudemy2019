@@ -1,0 +1,19 @@
+body {
+    padding: 10px;
+    margin: auto;
+    width: 70%;
+    background-color: linen;
+}
+
+.logo {
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    border-top: solid 3px lightblue;
+    text-align: center;
+    color: saddlebrown;
+}
